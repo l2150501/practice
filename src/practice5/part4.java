@@ -33,7 +33,7 @@ class Login extends JFrame {
     txtPwd.setFont(new Font("微軟中黑體", Font.PLAIN, 25));
     add(txtPwd);
 
-    lblLogin = new JLabel("成人專區");
+    lblLogin = new JLabel("練習專區");
     lblLogin.setBounds(100, 210, 100, 27);
     lblLogin.setFont(new Font("正楷體", Font.PLAIN, 25));
     add(lblLogin);
@@ -54,7 +54,7 @@ class Login extends JFrame {
     add(btnLogin);
     btnLogin.addActionListener(new ActionListener() {
       public void actionPerformed(ActionEvent e) {
-        if (txtId.getText().equals("shit") && txtPwd.getText().equals("0812")) {
+        if (txtId.getText().equals("eddy") && txtPwd.getText().equals("0812")) {
           int isOk = JOptionPane.showConfirmDialog(null, "你已年滿18歲", "登入作業", JOptionPane.YES_NO_OPTION,
                   JOptionPane.INFORMATION_MESSAGE);
           if (isOk == 1){
