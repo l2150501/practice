@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Eddy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Eddy_jar</output-path>
+    <root id="archive" name="Eddy.jar">
+      <element id="module-output" name="Eddy" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../sqljdbc_8.2.2.0_cht/sqljdbc_8.2/cht/mssql-jdbc-8.2.2.jre13.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

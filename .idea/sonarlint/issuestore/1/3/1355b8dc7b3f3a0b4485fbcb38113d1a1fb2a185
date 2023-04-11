@@ -1,0 +1,18 @@
+
+k
+java:S1192"PDefine a constant instead of duplicating this literal "ÂæÆËªü‰∏≠ÈªëÈ´î" 3 times.(€˚Á«˛ˇˇˇˇ
+>
+java:S1604."(Make this anonymous inner class a lambda(≠‚¸â
+>
+java:S16045"(Make this anonymous inner class a lambda(Ø¶ﬁ•
+C
+java:S1604<"(Make this anonymous inner class a lambda(∏‚£Ì˛ˇˇˇˇ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ¬¶
+W
+java:S1659"ADeclare "btn2" and all following declarations on a separate line.(Ÿ√“º
+ú
+java:S1186="ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(º†“˛¸ˇˇˇˇ
+d
+java:S3252F"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(’˚ªˆ˛ˇˇˇˇ
+>
+java:S1068"(Remove this unused "main" private field.(›∏≈À
